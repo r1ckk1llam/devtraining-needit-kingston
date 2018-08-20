@@ -3,20 +3,20 @@
     <sys_ws_query_parameter action="INSERT_OR_UPDATE">
         <example_value/>
         <name>ni_query</name>
-        <required>false</required>
+        <required>true</required>
         <short_description/>
         <sys_class_name>sys_ws_query_parameter</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-17 20:57:47</sys_created_on>
-        <sys_id>cc837a2c4f802300ffab89dba310c7c1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2018-08-20 21:30:54</sys_created_on>
+        <sys_id>35e75ee54fc02300ffab89dba310c71a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>ni_query</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ws_query_parameter_cc837a2c4f802300ffab89dba310c7c1</sys_update_name>
+        <sys_update_name>sys_ws_query_parameter_35e75ee54fc02300ffab89dba310c71a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-17 20:57:47</sys_updated_on>
+        <sys_updated_on>2018-08-20 21:31:50</sys_updated_on>
         <web_service_definition display_value="NeedIt API">263e6a684f802300ffab89dba310c709</web_service_definition>
     </sys_ws_query_parameter>
 </record_update>
